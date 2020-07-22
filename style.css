@@ -10,9 +10,11 @@ body {
 }
 .paused {
      color:#ffffff;
+     background:#00ff00; 
 }
 .running {
      color:#ffffff;
+     background:#00ff00;
 }
 .half {
      color:#fdd56f;
