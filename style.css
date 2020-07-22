@@ -9,24 +9,19 @@ body {
      text-align:center 
 }
 .paused {
-     color:#257ba0;
-     background:#72ead5 
+     color:#ffffff;
 }
 .running {
-     color:#257ba0;
-     background:#72ead5 
+     color:#ffffff;
 }
 .half {
-     color:#257ba0;
-     background:#fdd570 
+     color:#fdd56f;
 }
 .almost {
-     color:#257ba0;
-     background:#fc63a3 
+     color:#fe0000;
 }
 .over {
-     color:#fc63a3;
-     background:#257ba0 
+     color:#fe0000;
 }
 span.digits {
      cursor:pointer;
