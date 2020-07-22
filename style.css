@@ -18,12 +18,15 @@ body {
 }
 .half {
      color:#fdd56f;
+     background:#00ff00; 
 }
 .almost {
      color:#fe0000;
+     background:#00ff00; 
 }
 .over {
      color:#fe0000;
+     background:#00ff00; 
 }
 span.digits {
      cursor:pointer;
